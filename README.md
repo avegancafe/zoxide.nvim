@@ -2,6 +2,8 @@
 
 A small (Neo)Vim wrapper for [zoxide](https://github.com/ajeetdsouza/zoxide)
 
+This is a fork of [zoxide.vim](https://github.com/nanotee/zoxide.vim)
+
 ## Requirements
 
 - A recent version of Vim or Neovim
